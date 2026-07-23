@@ -15,7 +15,7 @@ Materials for "Graph Neural Networks: Foundations and Applications for Real-Worl
 The tutorial uses the MoMTSim synthetic mobile money transaction dataset from
 Mendeley Data:
 
-https://data.mendeley.com/datasets/zhj366m53p/1
+https://data.mendeley.com/datasets/zhj366m53p/2
 
 The raw file, `synthetic_mobile_money_transaction_dataset.csv`, has 1,720,181
 transactions and is about 149 MB. The raw file is not tracked in git. The
