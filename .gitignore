@@ -181,6 +181,9 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+# Raw MoMTSim source data; generated tutorial samples can still be committed.
+synthetic_mobile_money_transaction_dataset.csv
+
 # PyCharm
 #   JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #   be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
