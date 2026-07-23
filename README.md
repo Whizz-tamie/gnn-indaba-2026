@@ -6,6 +6,10 @@ Materials for "Graph Neural Networks: Foundations and Applications for Real-Worl
 - [Live demo notebook](https://colab.research.google.com/github/Whizz-tamie/gnn-indaba-2026/blob/main/notebooks/GNN_Tutorial_Live.ipynb)
 - [Take-home notebook](https://colab.research.google.com/github/Whizz-tamie/gnn-indaba-2026/blob/main/notebooks/GNN_Tutorial_TakeHome.ipynb)
 
+## Slides
+
+- [Tutorial slides](slides/DLI2026_GNNs_slidedeck.pdf)
+
 ## Dataset
 
 The tutorial uses the MoMTSim synthetic mobile money transaction dataset from
